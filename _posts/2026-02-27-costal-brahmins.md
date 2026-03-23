@@ -4,7 +4,7 @@ title:  "Costal Karnataka Brahmins - Kuladevaru and Gotra"
 date:   2026-02-27
 categories: jekyll update
 ---
-Recently I got access to a dataset about costal karnataka brahmins. Here are some interesting findings. 
+Recently I got access to a dataset about costal karnataka brahmins. Here are some interesting findings.
 
 There are mainly five types of brahmins that I've analyzed. 
 - Kandavara Smartha
