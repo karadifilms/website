@@ -5,8 +5,7 @@ date:   2026-03-24
 categories: jekyll update
 ---
 A Yakshagana Prasanga Prathi Library. 
-
-Here's the website: [https://yaksha.talamaddale.my.id](https://yaksha.talamaddale.my.id)
+[**website**](https://yaksha.talamaddale.my.id)
 
 Main source of data for this project is from the people at `Yakshavahini`. Somehow, it seems they have co-ordinated with a lot of yakshagana enjoyers and digitized upwards of 1700 parasanga prathis! Uncs have uploaded everything to archive.org and google drive. Yakshavahini have also published their own version of cleaned up prathis. Lot of great work!
 
